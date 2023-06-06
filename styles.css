@@ -2,6 +2,9 @@ body{
     background-color: lightseagreen;
     color: brown;
 }
+.greeting{
+  text-align: center;
+}
 h1{
     font-size: 'Arial', serif;
     font-family: 40px;
